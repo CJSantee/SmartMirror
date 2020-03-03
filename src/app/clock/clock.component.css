@@ -1,0 +1,14 @@
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+  text-align: right;
+  font-size: 85px;
+  line-height: 55px;
+}
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+  text-align: right;
+  font-size: 35px;
+  line-height: 10px;
+}
